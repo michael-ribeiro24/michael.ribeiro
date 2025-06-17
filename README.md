@@ -33,6 +33,15 @@ Meu nome é Michael Douglas, tenho 21 anos e sou natural de Sumaré, São Paulo.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="BI"
+    title="BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://icons.getbootstrap.com/icons/bar-chart-fill/]" 
+/>
+
 <br/>
 <br/>
 
