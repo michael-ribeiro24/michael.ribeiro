@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Michael Douglas, tenho 21 anos e sou natural de Sumaré, São Paulo. Estudo "Web and computer programming" na Brigham Young University Idaho. Sou apaixonado por tecnologia, principalmente na área de dados.
+Meu nome é Michael Douglas, tenho 21 anos e sou natural de Sumaré, São Paulo. Atualmente curso Web and Computer Programming pela Brigham Young University – Idaho. Sou entusiasta da área de tecnologia, com grande interesse em dados, análise e automação. Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem impacto real.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
