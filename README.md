@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Michael Douglas
+# 🐱‍👤 Michael Douglas
 
 **`Desenvolvedor Júnior`**
 
